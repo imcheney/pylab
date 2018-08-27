@@ -1,0 +1,20 @@
+2018-08-22 10:24:09,148 - server - INFO - aaaaaa
+2018-08-22 10:24:09,148 - server - DEBUG - bbbb
+2018-08-22 10:26:54,016-server-INFO-C:/Users/gzchenxiaolong/PycharmProjects/test102/lab_logger.py-aaaaaa
+2018-08-22 10:26:54,016-server-DEBUG-C:/Users/gzchenxiaolong/PycharmProjects/test102/lab_logger.py-bbbb
+2018-08-22 10:27:11,753-server-INFO-<module>-aaaaaa
+2018-08-22 10:27:11,753-server-DEBUG-<module>-bbbb
+2018-08-22 10:27:16,842-server-INFO-<module>-aaaaaa
+2018-08-22 10:27:16,842-server-DEBUG-<module>-bbbb
+2018-08-22 10:27:17,861-server-INFO-<module>-aaaaaa
+2018-08-22 10:27:17,861-server-DEBUG-<module>-bbbb
+2018-08-22 10:27:40,072-server-INFO-<module>-7-aaaaaa
+2018-08-22 10:27:40,073-server-DEBUG-<module>-8-bbbb
+2018-08-22 10:27:53,309-server-INFO-<module>-lab_logger-7-aaaaaa
+2018-08-22 10:27:53,309-server-DEBUG-<module>-lab_logger-8-bbbb
+2018-08-22 10:28:16,259-server-INFO-lab_logger, 7, <module>-aaaaaa
+2018-08-22 10:28:16,259-server-DEBUG-lab_logger, 8, <module>-bbbb
+2018-08-22 10:28:50,631-server-INFO-lab_logger, 8, do_logger-aaaaaa
+2018-08-22 10:28:50,631-server-DEBUG-lab_logger, 9, do_logger-bbbb
+2018-08-22 10:30:15,812-server-INFO-lab_logger, 8, do_logger-aaaaaa
+2018-08-22 10:30:15,812-server-DEBUG-lab_logger, 9, do_logger-bbbb
