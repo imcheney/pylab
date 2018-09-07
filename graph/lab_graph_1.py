@@ -7,9 +7,6 @@ from collections import deque
 
 import networkx as nx
 
-
-from entity import Entity
-
 _logger = logging.getLogger('world')
 
 
@@ -268,4 +265,3 @@ class MapManager(object):
 
 if __name__ == '__main__':
     mm = MapManager()
-    print mm._
